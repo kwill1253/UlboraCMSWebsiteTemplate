@@ -1,6 +1,7 @@
 .main-wrapper{
     float: left;
     width: 100%; 
+    padding: 0 2% 0 2%;
 }
 .main-left{
     float: left;   
@@ -122,7 +123,7 @@
 @media screen and (max-width: 1000px){
     .main-wrapper{
         margin: 10% 0 0 0; 
-        background: blue;
+        
     }
     .main-wrapper img{
         max-width: 80%;
@@ -149,8 +150,7 @@
 
 @media screen and (max-width: 800px){
     .main-wrapper{
-        margin: 12% 0 0 0; 
-        background: green;
+        margin: 12% 0 0 0;         
     }
     .main-wrapper img{
         max-width: 90%;
@@ -172,8 +172,7 @@
 
 @media screen and (max-width: 600px){
     .main-wrapper{
-        margin: 12% 0 0 0; 
-        background: orange;
+        margin: 12% 0 0 0;         
     }
     .main-wrapper img{
         max-width: 90%;
@@ -195,8 +194,7 @@
 
 @media screen and (max-width: 500px){
     .main-wrapper{
-        margin: 16% 0 0 0; 
-        background: red;
+        margin: 16% 0 0 0;         
     }
     .main-wrapper img{
         max-width: 90%;
@@ -218,8 +216,7 @@
 
 @media screen and (max-width: 400px){
     .main-wrapper{
-        margin: 20% 0 0 0; 
-        background: purple;
+        margin: 20% 0 0 0;        
     }
     .main-wrapper img{
         max-width: 90%;
@@ -241,8 +238,7 @@
 
 @media screen and (max-width: 300px){
     .main-wrapper{
-        margin: 26% 0 0 0; 
-        background: tan;
+        margin: 26% 0 0 0;         
     }
     .main-wrapper img{
         max-width: 90%;

@@ -107,3 +107,9 @@ body{
   background-color: transparent;  
 }
 
+.footer{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin: 40% 0 10% 0;
+}

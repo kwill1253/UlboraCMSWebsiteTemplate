@@ -24,6 +24,10 @@ ulboraCmsControllers.controller('MainCtrl', ['$scope', 'checkCreds', '$location'
                 {
                     "sectionName": "MainPage",
                     "categoryName": null
+                },
+                {
+                    "sectionName": "News",
+                    "categoryName": null
                 }
             ]
 
@@ -145,7 +149,7 @@ ulboraCmsControllers.controller('NewsCtrl', ['$scope', 'checkCreds', '$location'
             "products": false,
             "searchFilter": [
                 {
-                    "sectionName": null,
+                    "sectionName": "News",
                     "categoryName": null
                 }
             ]
@@ -213,14 +217,6 @@ ulboraCmsControllers.controller('AboutCtrl', ['$scope', 'checkCreds', '$location
             "products": false,
             "searchFilter": [
                 {
-                    "sectionName": null,
-                    "categoryName": "News"
-                },
-                {
-                    "sectionName": null,
-                    "categoryName": "News Flash"
-                },
-                {
                     "sectionName": "About",
                     "categoryName": null
                 }
@@ -287,14 +283,6 @@ ulboraCmsControllers.controller('ContactsCtrl', ['$scope', 'checkCreds', '$locat
             "articlesText": true,
             "products": false,
             "searchFilter": [
-                {
-                    "sectionName": null,
-                    "categoryName": "News"
-                },
-                {
-                    "sectionName": null,
-                    "categoryName": "News Flash"
-                },
                 {
                     "sectionName": "Contacts",
                     "categoryName": null
