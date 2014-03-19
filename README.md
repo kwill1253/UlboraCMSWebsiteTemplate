@@ -1,4 +1,4 @@
-UlboraCMS Website Template
+Ulbora CMS Website Template
 ========================
 
 Ulbora CMS website template that uses AngularJS 1.2 and Bootstrap.js v3
